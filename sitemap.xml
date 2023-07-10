@@ -2,10 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://confluent-kr.github.io/categories/</loc>
-  </url><url>
     <loc>https://confluent-kr.github.io/</loc>
+    <lastmod>2023-07-10T21:38:56+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://confluent-kr.github.io/post/2023.07.10-confluent-kr-community-site/</loc>
+    <lastmod>2023-07-10T21:38:56+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://confluent-kr.github.io/post/</loc>
+    <lastmod>2023-07-10T21:38:56+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://confluent-kr.github.io/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://confluent-kr.github.io/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
