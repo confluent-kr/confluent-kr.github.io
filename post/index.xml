@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>Posts on confluent kr community</title>
     <link>https://confluent-kr.github.io/post/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Posts on confluent kr community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US.UTF8</language>
     <lastBuildDate>Mon, 10 Jul 2023 21:38:56 +0900</lastBuildDate><atom:link href="https://confluent-kr.github.io/post/index.xml" rel="self" type="application/rss+xml" />

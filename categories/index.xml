@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories on confluent kr community</title>
     <link>https://confluent-kr.github.io/categories/</link>
-    <description>Recent content in Categories on </description>
+    <description>Recent content in Categories on confluent kr community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US.UTF8</language><atom:link href="https://confluent-kr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
